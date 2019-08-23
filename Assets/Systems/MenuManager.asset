@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5f4dd98c5bf4d53b3c2d0de8ec9a0b, type: 3}
+  m_Name: MenuManager
+  m_EditorClassIdentifier: 
+  MenuTemplate: {fileID: 0}
+  MenuAddedEvent: {fileID: 11400000, guid: bdc047ccfd7e441e998e045c5ee43624, type: 2}
+  MenusActive: {fileID: 11400000, guid: 9a69803adea5f4a54a0b6c0d31cd240a, type: 2}
+  sceneVariables: {fileID: 0}
+  UIDropShadowOffset: {x: 7, y: -7}
+  UIDropShadowColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  DefaultFont: {fileID: 12800000, guid: 6f83f075adbf8974884ffd6d4a2e9a2e, type: 3}

@@ -1,0 +1,17 @@
+drifted_input
+Windows
+True
+13
+OK:Button:JoystickButton0
+Cancel:Button:JoystickButton1
+CameraPanX:Axis:RightStickX_Win
+CameraPanY:Axis:RightStickY_Win
+ResetCamera:Button:JoystickButton6
+Jump:Button:JoystickButton0
+MovementX:Axis:Horizontal
+MovementY:Axis:Vertical
+ToggleMoods:Button:JoystickButton1
+ToggleSkills:Button:JoystickButton2
+ToggleInventory:Button:JoystickButton3
+PanCameraLeft:Button:JoystickButton4
+PanCameraRight:Button:JoystickButton5

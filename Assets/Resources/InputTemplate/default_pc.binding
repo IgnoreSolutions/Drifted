@@ -1,0 +1,17 @@
+drifted_input
+macOS
+False
+13
+OK:Button:Return
+Cancel:Button:Escape
+CameraPanX:Axis:Mouse X
+CameraPanY:Axis:Mouse Y
+ResetCamera:Button:R
+Jump:Button:Space
+MovementX:Axis:Horizontal
+MovementY:Axis:Vertical
+ToggleMoods:Button:M
+ToggleSkills:Button:O
+ToggleInventory:Button:I
+PanCameraLeft:Button:Q
+PanCameraRight:Button:E

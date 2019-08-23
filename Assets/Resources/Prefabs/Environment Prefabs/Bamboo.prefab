@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3870384078248779502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3870384078248779496}
+  - component: {fileID: 3870384078248779497}
+  - component: {fileID: 3870384078248779499}
+  - component: {fileID: 3870384078248779498}
+  m_Layer: 10
+  m_Name: Bamboo
+  m_TagString: Environment
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 18
+  m_IsActive: 1
+--- !u!4 &3870384078248779496
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870384078248779502}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3870384079629263537}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3870384078248779497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870384078248779502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ebc6760f09746488f9f45e3fa35538, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FriendlyName: Bamboo
+  Console: {fileID: 11400000, guid: d9954a9f039a44ba6a9fb7e073eb697e, type: 2}
+  playerInventory: {fileID: 11400000, guid: 40dbcd00ec6934f6ebd57e1d32a5b54f, type: 2}
+  Skills: {fileID: 11400000, guid: ee03ab8ab30e04a53ba44239cde84ff9, type: 2}
+  menuManager: {fileID: 11400000, guid: e66bea00a280f46798b6ce19bbffdd8f, type: 2}
+  notificationManager: {fileID: 11400000, guid: 05d39ca7efcff417d8a33a4a99532bfd,
+    type: 2}
+  CullingBoundRadius: 3
+  HasBecomeVisible:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  HasBecomeInvisible:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  DisappearDelayTime: 1
+  dAllowCulling: 1
+  Stages:
+  - {fileID: 100000, guid: 8a539accb4e040744b5ef2cba6696412, type: 3}
+  - {fileID: 100000, guid: e0e905fc2da8c82438eb2ae773fd9321, type: 3}
+  - {fileID: 100000, guid: 48084f4f328682b45a15a051ad12bd8e, type: 3}
+  - {fileID: 100000, guid: 96c5fa5222ed6eb40ab192473998ea8b, type: 3}
+  CutDownStage: {fileID: 100000, guid: dbf6aba877f62274e86cbf0234b90e4e, type: 3}
+  parent: {fileID: 3870384079629263537}
+  growthTime: 5
+  currentStage: 0
+  playerMovement: {fileID: 0}
+  cameraFollow: {fileID: 0}
+  itemDrop:
+    _item: {fileID: 11400000, guid: 023122a531b6843228ac6ca5ead6da35, type: 2}
+    Quantity: 5
+--- !u!65 &3870384078248779499
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870384078248779502}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 7, z: 1}
+  m_Center: {x: 0, y: 2.94, z: 0}
+--- !u!114 &3870384078248779498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870384078248779502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8d593d39d3e04b2a897f688679ffd91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3870384079629263542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3870384079629263537}
+  m_Layer: 10
+  m_Name: Empty
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 18
+  m_IsActive: 1
+--- !u!4 &3870384079629263537
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3870384079629263542}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3870384078248779496}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

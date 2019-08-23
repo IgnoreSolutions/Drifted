@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb280b3a3319e4a28b02e02cac4fbb66, type: 3}
+  m_Name: TestInventory2
+  m_EditorClassIdentifier: 
+  MasterDatabase: {fileID: 11400000, guid: 608b2ebb47e734d399411c0f0208528b, type: 2}
+  Items:
+  - _item: {fileID: 11400000, guid: 4bba394212dae4e699079b880557aa2b, type: 2}
+    Quantity: 20
+  - _item: {fileID: 11400000, guid: 023122a531b6843228ac6ca5ead6da35, type: 2}
+    Quantity: 10
+  - _item: {fileID: 11400000, guid: cc93d5994a096f84eaa12ee172fb5146, type: 2}
+    Quantity: 30
+  - _item: {fileID: 0}
+    Quantity: 0
+  - _item: {fileID: 0}
+    Quantity: 0
+  itemInMouse:
+    _item: {fileID: 0}
+    Quantity: 0
+  ItemToMouseEvent: {fileID: 0}

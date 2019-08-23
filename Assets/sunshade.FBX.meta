@@ -1,0 +1,1013 @@
+fileFormatVersion: 2
+guid: 25d8d905bb86b46f2a809a81a206cef1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: beam004
+    100002: beam005
+    100004: column010
+    100006: column011
+    100008: column013
+    100010: column014
+    100012: column016
+    100014: column017
+    100016: column018
+    100018: column019
+    100020: column020
+    100022: column021
+    100024: column022
+    100026: column023
+    100028: column024
+    100030: column025
+    100032: column026
+    100034: column027
+    100036: housetop004
+    100038: housetop005
+    100040: large roof lath036
+    100042: large roof lath037
+    100044: large roof lath038
+    100046: large roof lath039
+    100048: large roof lath040
+    100050: large roof lath041
+    100052: large roof lath042
+    100054: large roof lath043
+    100056: large roof lath044
+    100058: large roof lath045
+    100060: large roof lath046
+    100062: large roof lath047
+    100064: large roof lath048
+    100066: large roof lath049
+    100068: large roof lath050
+    100070: large roof lath051
+    100072: large roof lath052
+    100074: large roof lath053
+    100076: large roof lath054
+    100078: large roof lath055
+    100080: large roof lath056
+    100082: large roof lath057
+    100084: large roof lath058
+    100086: large roof lath059
+    100088: large roof lath060
+    100090: large roof lath061
+    100092: large roof lath062
+    100094: large roof lath063
+    100096: large roof lath064
+    100098: large roof lath065
+    100100: large roof lath066
+    100102: large roof lath067
+    100104: large roof lath068
+    100106: large roof lath069
+    100108: large roof lath070
+    100110: large roof lath071
+    100112: large roof lath072
+    100114: large roof lath073
+    100116: large roof lath074
+    100118: large roof lath075
+    100120: large roof lath076
+    100122: large roof lath077
+    100124: large roof lath078
+    100126: large roof lath079
+    100128: large roof lath080
+    100130: large roof lath081
+    100132: large roof lath082
+    100134: large roof lath083
+    100136: large roof lath084
+    100138: large roof lath085
+    100140: large roof lath086
+    100142: large roof lath087
+    100144: large roof lath088
+    100146: large roof lath089
+    100148: large roof lath090
+    100150: large roof lath091
+    100152: large roof lath092
+    100154: large roof lath093
+    100156: large roof lath094
+    100158: large roof lath095
+    100160: large roof lath096
+    100162: large roof lath097
+    100164: large roof lath098
+    100166: large roof lath099
+    100168: large roof lath100
+    100170: large roof lath101
+    100172: large roof lath102
+    100174: large roof lath103
+    100176: large roof lath104
+    100178: large roof lath105
+    100180: large roof lath106
+    100182: large roof lath107
+    100184: Line003
+    100186: Line004
+    100188: Line005
+    100190: Line006
+    100192: Rectangle014
+    100194: Rectangle015
+    100196: Rectangle016
+    100198: Rectangle017
+    100200: Rectangle018
+    100202: Rectangle019
+    100204: Rectangle020
+    100206: Rectangle021
+    100208: Rectangle022
+    100210: Rectangle023
+    100212: Rectangle024
+    100214: Rectangle025
+    100216: Rectangle026
+    100218: Rectangle027
+    100220: Rectangle028
+    100222: Rectangle029
+    100224: Rectangle030
+    100226: Rectangle031
+    100228: Rectangle032
+    100230: Rectangle033
+    100232: small roof lath036
+    100234: small roof lath037
+    100236: small roof lath038
+    100238: small roof lath039
+    100240: small roof lath040
+    100242: small roof lath041
+    100244: small roof lath042
+    100246: small roof lath043
+    100248: small roof lath044
+    100250: small roof lath045
+    100252: small roof lath046
+    100254: small roof lath047
+    100256: small roof lath048
+    100258: small roof lath049
+    100260: small roof lath050
+    100262: small roof lath051
+    100264: small roof lath052
+    100266: small roof lath053
+    100268: small roof lath054
+    100270: small roof lath055
+    100272: small roof lath056
+    100274: small roof lath057
+    100276: small roof lath058
+    100278: small roof lath059
+    100280: small roof lath060
+    100282: small roof lath061
+    100284: small roof lath062
+    100286: small roof lath063
+    100288: small roof lath064
+    100290: small roof lath065
+    100292: small roof lath066
+    100294: small roof lath067
+    100296: small roof lath068
+    100298: small roof lath069
+    100300: small roof lath070
+    100302: small roof lath071
+    100304: small roof lath072
+    100306: small roof lath073
+    100308: small roof lath074
+    100310: small roof lath075
+    100312: small roof lath076
+    100314: small roof lath077
+    100316: small roof lath078
+    100318: small roof lath079
+    100320: small roof lath080
+    100322: small roof lath081
+    100324: small roof lath082
+    100326: small roof lath083
+    100328: small roof lath084
+    100330: small roof lath085
+    100332: small roof lath086
+    100334: small roof lath087
+    100336: small roof lath088
+    100338: small roof lath089
+    100340: small roof lath090
+    100342: small roof lath091
+    100344: small roof lath092
+    100346: small roof lath093
+    100348: small roof lath094
+    100350: small roof lath095
+    100352: small roof lath096
+    100354: small roof lath097
+    100356: small roof lath098
+    100358: small roof lath099
+    100360: small roof lath100
+    100362: small roof lath101
+    100364: small roof lath102
+    100366: small roof lath103
+    100368: small roof lath104
+    100370: small roof lath105
+    100372: small roof lath106
+    100374: small roof lath107
+    100376: //RootNode
+    100378: sunshade002
+    400000: beam004
+    400002: beam005
+    400004: column010
+    400006: column011
+    400008: column013
+    400010: column014
+    400012: column016
+    400014: column017
+    400016: column018
+    400018: column019
+    400020: column020
+    400022: column021
+    400024: column022
+    400026: column023
+    400028: column024
+    400030: column025
+    400032: column026
+    400034: column027
+    400036: housetop004
+    400038: housetop005
+    400040: large roof lath036
+    400042: large roof lath037
+    400044: large roof lath038
+    400046: large roof lath039
+    400048: large roof lath040
+    400050: large roof lath041
+    400052: large roof lath042
+    400054: large roof lath043
+    400056: large roof lath044
+    400058: large roof lath045
+    400060: large roof lath046
+    400062: large roof lath047
+    400064: large roof lath048
+    400066: large roof lath049
+    400068: large roof lath050
+    400070: large roof lath051
+    400072: large roof lath052
+    400074: large roof lath053
+    400076: large roof lath054
+    400078: large roof lath055
+    400080: large roof lath056
+    400082: large roof lath057
+    400084: large roof lath058
+    400086: large roof lath059
+    400088: large roof lath060
+    400090: large roof lath061
+    400092: large roof lath062
+    400094: large roof lath063
+    400096: large roof lath064
+    400098: large roof lath065
+    400100: large roof lath066
+    400102: large roof lath067
+    400104: large roof lath068
+    400106: large roof lath069
+    400108: large roof lath070
+    400110: large roof lath071
+    400112: large roof lath072
+    400114: large roof lath073
+    400116: large roof lath074
+    400118: large roof lath075
+    400120: large roof lath076
+    400122: large roof lath077
+    400124: large roof lath078
+    400126: large roof lath079
+    400128: large roof lath080
+    400130: large roof lath081
+    400132: large roof lath082
+    400134: large roof lath083
+    400136: large roof lath084
+    400138: large roof lath085
+    400140: large roof lath086
+    400142: large roof lath087
+    400144: large roof lath088
+    400146: large roof lath089
+    400148: large roof lath090
+    400150: large roof lath091
+    400152: large roof lath092
+    400154: large roof lath093
+    400156: large roof lath094
+    400158: large roof lath095
+    400160: large roof lath096
+    400162: large roof lath097
+    400164: large roof lath098
+    400166: large roof lath099
+    400168: large roof lath100
+    400170: large roof lath101
+    400172: large roof lath102
+    400174: large roof lath103
+    400176: large roof lath104
+    400178: large roof lath105
+    400180: large roof lath106
+    400182: large roof lath107
+    400184: Line003
+    400186: Line004
+    400188: Line005
+    400190: Line006
+    400192: Rectangle014
+    400194: Rectangle015
+    400196: Rectangle016
+    400198: Rectangle017
+    400200: Rectangle018
+    400202: Rectangle019
+    400204: Rectangle020
+    400206: Rectangle021
+    400208: Rectangle022
+    400210: Rectangle023
+    400212: Rectangle024
+    400214: Rectangle025
+    400216: Rectangle026
+    400218: Rectangle027
+    400220: Rectangle028
+    400222: Rectangle029
+    400224: Rectangle030
+    400226: Rectangle031
+    400228: Rectangle032
+    400230: Rectangle033
+    400232: small roof lath036
+    400234: small roof lath037
+    400236: small roof lath038
+    400238: small roof lath039
+    400240: small roof lath040
+    400242: small roof lath041
+    400244: small roof lath042
+    400246: small roof lath043
+    400248: small roof lath044
+    400250: small roof lath045
+    400252: small roof lath046
+    400254: small roof lath047
+    400256: small roof lath048
+    400258: small roof lath049
+    400260: small roof lath050
+    400262: small roof lath051
+    400264: small roof lath052
+    400266: small roof lath053
+    400268: small roof lath054
+    400270: small roof lath055
+    400272: small roof lath056
+    400274: small roof lath057
+    400276: small roof lath058
+    400278: small roof lath059
+    400280: small roof lath060
+    400282: small roof lath061
+    400284: small roof lath062
+    400286: small roof lath063
+    400288: small roof lath064
+    400290: small roof lath065
+    400292: small roof lath066
+    400294: small roof lath067
+    400296: small roof lath068
+    400298: small roof lath069
+    400300: small roof lath070
+    400302: small roof lath071
+    400304: small roof lath072
+    400306: small roof lath073
+    400308: small roof lath074
+    400310: small roof lath075
+    400312: small roof lath076
+    400314: small roof lath077
+    400316: small roof lath078
+    400318: small roof lath079
+    400320: small roof lath080
+    400322: small roof lath081
+    400324: small roof lath082
+    400326: small roof lath083
+    400328: small roof lath084
+    400330: small roof lath085
+    400332: small roof lath086
+    400334: small roof lath087
+    400336: small roof lath088
+    400338: small roof lath089
+    400340: small roof lath090
+    400342: small roof lath091
+    400344: small roof lath092
+    400346: small roof lath093
+    400348: small roof lath094
+    400350: small roof lath095
+    400352: small roof lath096
+    400354: small roof lath097
+    400356: small roof lath098
+    400358: small roof lath099
+    400360: small roof lath100
+    400362: small roof lath101
+    400364: small roof lath102
+    400366: small roof lath103
+    400368: small roof lath104
+    400370: small roof lath105
+    400372: small roof lath106
+    400374: small roof lath107
+    400376: //RootNode
+    400378: sunshade002
+    2100000: wood2
+    2100002: wood1
+    2300000: column010
+    2300002: column011
+    2300004: column013
+    2300006: column014
+    2300008: column016
+    2300010: column017
+    2300012: column020
+    2300014: column021
+    2300016: column023
+    2300018: column024
+    2300020: column026
+    2300022: column027
+    2300024: large roof lath036
+    2300026: large roof lath037
+    2300028: large roof lath038
+    2300030: large roof lath039
+    2300032: large roof lath040
+    2300034: large roof lath041
+    2300036: large roof lath042
+    2300038: large roof lath043
+    2300040: large roof lath044
+    2300042: large roof lath045
+    2300044: large roof lath046
+    2300046: large roof lath047
+    2300048: large roof lath048
+    2300050: large roof lath049
+    2300052: large roof lath050
+    2300054: large roof lath051
+    2300056: large roof lath052
+    2300058: large roof lath053
+    2300060: large roof lath054
+    2300062: large roof lath055
+    2300064: large roof lath056
+    2300066: large roof lath057
+    2300068: large roof lath058
+    2300070: large roof lath059
+    2300072: large roof lath060
+    2300074: large roof lath061
+    2300076: large roof lath062
+    2300078: large roof lath063
+    2300080: large roof lath064
+    2300082: large roof lath065
+    2300084: large roof lath066
+    2300086: large roof lath067
+    2300088: large roof lath068
+    2300090: large roof lath069
+    2300092: large roof lath070
+    2300094: large roof lath071
+    2300096: large roof lath072
+    2300098: large roof lath073
+    2300100: large roof lath074
+    2300102: large roof lath075
+    2300104: large roof lath076
+    2300106: large roof lath077
+    2300108: large roof lath078
+    2300110: large roof lath079
+    2300112: large roof lath080
+    2300114: large roof lath081
+    2300116: large roof lath082
+    2300118: large roof lath083
+    2300120: large roof lath084
+    2300122: large roof lath085
+    2300124: large roof lath086
+    2300126: large roof lath087
+    2300128: large roof lath088
+    2300130: large roof lath089
+    2300132: large roof lath090
+    2300134: large roof lath091
+    2300136: large roof lath092
+    2300138: large roof lath093
+    2300140: large roof lath094
+    2300142: large roof lath095
+    2300144: large roof lath096
+    2300146: large roof lath097
+    2300148: large roof lath098
+    2300150: large roof lath099
+    2300152: large roof lath100
+    2300154: large roof lath101
+    2300156: large roof lath102
+    2300158: large roof lath103
+    2300160: large roof lath104
+    2300162: large roof lath105
+    2300164: large roof lath106
+    2300166: large roof lath107
+    2300168: Line003
+    2300170: Line004
+    2300172: Line005
+    2300174: Line006
+    2300176: Rectangle014
+    2300178: Rectangle015
+    2300180: Rectangle016
+    2300182: Rectangle017
+    2300184: Rectangle018
+    2300186: Rectangle019
+    2300188: Rectangle020
+    2300190: Rectangle021
+    2300192: Rectangle022
+    2300194: Rectangle023
+    2300196: Rectangle024
+    2300198: Rectangle025
+    2300200: Rectangle026
+    2300202: Rectangle027
+    2300204: Rectangle028
+    2300206: Rectangle029
+    2300208: Rectangle030
+    2300210: Rectangle031
+    2300212: Rectangle032
+    2300214: Rectangle033
+    2300216: small roof lath036
+    2300218: small roof lath037
+    2300220: small roof lath038
+    2300222: small roof lath039
+    2300224: small roof lath040
+    2300226: small roof lath041
+    2300228: small roof lath042
+    2300230: small roof lath043
+    2300232: small roof lath044
+    2300234: small roof lath045
+    2300236: small roof lath046
+    2300238: small roof lath047
+    2300240: small roof lath048
+    2300242: small roof lath049
+    2300244: small roof lath050
+    2300246: small roof lath051
+    2300248: small roof lath052
+    2300250: small roof lath053
+    2300252: small roof lath054
+    2300254: small roof lath055
+    2300256: small roof lath056
+    2300258: small roof lath057
+    2300260: small roof lath058
+    2300262: small roof lath059
+    2300264: small roof lath060
+    2300266: small roof lath061
+    2300268: small roof lath062
+    2300270: small roof lath063
+    2300272: small roof lath064
+    2300274: small roof lath065
+    2300276: small roof lath066
+    2300278: small roof lath067
+    2300280: small roof lath068
+    2300282: small roof lath069
+    2300284: small roof lath070
+    2300286: small roof lath071
+    2300288: small roof lath072
+    2300290: small roof lath073
+    2300292: small roof lath074
+    2300294: small roof lath075
+    2300296: small roof lath076
+    2300298: small roof lath077
+    2300300: small roof lath078
+    2300302: small roof lath079
+    2300304: small roof lath080
+    2300306: small roof lath081
+    2300308: small roof lath082
+    2300310: small roof lath083
+    2300312: small roof lath084
+    2300314: small roof lath085
+    2300316: small roof lath086
+    2300318: small roof lath087
+    2300320: small roof lath088
+    2300322: small roof lath089
+    2300324: small roof lath090
+    2300326: small roof lath091
+    2300328: small roof lath092
+    2300330: small roof lath093
+    2300332: small roof lath094
+    2300334: small roof lath095
+    2300336: small roof lath096
+    2300338: small roof lath097
+    2300340: small roof lath098
+    2300342: small roof lath099
+    2300344: small roof lath100
+    2300346: small roof lath101
+    2300348: small roof lath102
+    2300350: small roof lath103
+    2300352: small roof lath104
+    2300354: small roof lath105
+    2300356: small roof lath106
+    2300358: small roof lath107
+    3300000: column010
+    3300002: column011
+    3300004: column013
+    3300006: column014
+    3300008: column016
+    3300010: column017
+    3300012: column020
+    3300014: column021
+    3300016: column023
+    3300018: column024
+    3300020: column026
+    3300022: column027
+    3300024: large roof lath036
+    3300026: large roof lath037
+    3300028: large roof lath038
+    3300030: large roof lath039
+    3300032: large roof lath040
+    3300034: large roof lath041
+    3300036: large roof lath042
+    3300038: large roof lath043
+    3300040: large roof lath044
+    3300042: large roof lath045
+    3300044: large roof lath046
+    3300046: large roof lath047
+    3300048: large roof lath048
+    3300050: large roof lath049
+    3300052: large roof lath050
+    3300054: large roof lath051
+    3300056: large roof lath052
+    3300058: large roof lath053
+    3300060: large roof lath054
+    3300062: large roof lath055
+    3300064: large roof lath056
+    3300066: large roof lath057
+    3300068: large roof lath058
+    3300070: large roof lath059
+    3300072: large roof lath060
+    3300074: large roof lath061
+    3300076: large roof lath062
+    3300078: large roof lath063
+    3300080: large roof lath064
+    3300082: large roof lath065
+    3300084: large roof lath066
+    3300086: large roof lath067
+    3300088: large roof lath068
+    3300090: large roof lath069
+    3300092: large roof lath070
+    3300094: large roof lath071
+    3300096: large roof lath072
+    3300098: large roof lath073
+    3300100: large roof lath074
+    3300102: large roof lath075
+    3300104: large roof lath076
+    3300106: large roof lath077
+    3300108: large roof lath078
+    3300110: large roof lath079
+    3300112: large roof lath080
+    3300114: large roof lath081
+    3300116: large roof lath082
+    3300118: large roof lath083
+    3300120: large roof lath084
+    3300122: large roof lath085
+    3300124: large roof lath086
+    3300126: large roof lath087
+    3300128: large roof lath088
+    3300130: large roof lath089
+    3300132: large roof lath090
+    3300134: large roof lath091
+    3300136: large roof lath092
+    3300138: large roof lath093
+    3300140: large roof lath094
+    3300142: large roof lath095
+    3300144: large roof lath096
+    3300146: large roof lath097
+    3300148: large roof lath098
+    3300150: large roof lath099
+    3300152: large roof lath100
+    3300154: large roof lath101
+    3300156: large roof lath102
+    3300158: large roof lath103
+    3300160: large roof lath104
+    3300162: large roof lath105
+    3300164: large roof lath106
+    3300166: large roof lath107
+    3300168: Line003
+    3300170: Line004
+    3300172: Line005
+    3300174: Line006
+    3300176: Rectangle014
+    3300178: Rectangle015
+    3300180: Rectangle016
+    3300182: Rectangle017
+    3300184: Rectangle018
+    3300186: Rectangle019
+    3300188: Rectangle020
+    3300190: Rectangle021
+    3300192: Rectangle022
+    3300194: Rectangle023
+    3300196: Rectangle024
+    3300198: Rectangle025
+    3300200: Rectangle026
+    3300202: Rectangle027
+    3300204: Rectangle028
+    3300206: Rectangle029
+    3300208: Rectangle030
+    3300210: Rectangle031
+    3300212: Rectangle032
+    3300214: Rectangle033
+    3300216: small roof lath036
+    3300218: small roof lath037
+    3300220: small roof lath038
+    3300222: small roof lath039
+    3300224: small roof lath040
+    3300226: small roof lath041
+    3300228: small roof lath042
+    3300230: small roof lath043
+    3300232: small roof lath044
+    3300234: small roof lath045
+    3300236: small roof lath046
+    3300238: small roof lath047
+    3300240: small roof lath048
+    3300242: small roof lath049
+    3300244: small roof lath050
+    3300246: small roof lath051
+    3300248: small roof lath052
+    3300250: small roof lath053
+    3300252: small roof lath054
+    3300254: small roof lath055
+    3300256: small roof lath056
+    3300258: small roof lath057
+    3300260: small roof lath058
+    3300262: small roof lath059
+    3300264: small roof lath060
+    3300266: small roof lath061
+    3300268: small roof lath062
+    3300270: small roof lath063
+    3300272: small roof lath064
+    3300274: small roof lath065
+    3300276: small roof lath066
+    3300278: small roof lath067
+    3300280: small roof lath068
+    3300282: small roof lath069
+    3300284: small roof lath070
+    3300286: small roof lath071
+    3300288: small roof lath072
+    3300290: small roof lath073
+    3300292: small roof lath074
+    3300294: small roof lath075
+    3300296: small roof lath076
+    3300298: small roof lath077
+    3300300: small roof lath078
+    3300302: small roof lath079
+    3300304: small roof lath080
+    3300306: small roof lath081
+    3300308: small roof lath082
+    3300310: small roof lath083
+    3300312: small roof lath084
+    3300314: small roof lath085
+    3300316: small roof lath086
+    3300318: small roof lath087
+    3300320: small roof lath088
+    3300322: small roof lath089
+    3300324: small roof lath090
+    3300326: small roof lath091
+    3300328: small roof lath092
+    3300330: small roof lath093
+    3300332: small roof lath094
+    3300334: small roof lath095
+    3300336: small roof lath096
+    3300338: small roof lath097
+    3300340: small roof lath098
+    3300342: small roof lath099
+    3300344: small roof lath100
+    3300346: small roof lath101
+    3300348: small roof lath102
+    3300350: small roof lath103
+    3300352: small roof lath104
+    3300354: small roof lath105
+    3300356: small roof lath106
+    3300358: small roof lath107
+    4300000: large roof lath072
+    4300002: large roof lath073
+    4300004: small roof lath072
+    4300006: small roof lath073
+    4300008: large roof lath074
+    4300010: large roof lath075
+    4300012: large roof lath076
+    4300014: large roof lath077
+    4300016: large roof lath078
+    4300018: large roof lath079
+    4300020: large roof lath080
+    4300022: large roof lath081
+    4300024: large roof lath082
+    4300026: large roof lath083
+    4300028: large roof lath084
+    4300030: large roof lath085
+    4300032: large roof lath086
+    4300034: large roof lath087
+    4300036: large roof lath088
+    4300038: large roof lath089
+    4300040: small roof lath074
+    4300042: small roof lath075
+    4300044: small roof lath076
+    4300046: small roof lath077
+    4300048: small roof lath078
+    4300050: small roof lath079
+    4300052: small roof lath080
+    4300054: small roof lath081
+    4300056: small roof lath082
+    4300058: small roof lath083
+    4300060: small roof lath084
+    4300062: small roof lath085
+    4300064: small roof lath086
+    4300066: small roof lath087
+    4300068: small roof lath088
+    4300070: small roof lath089
+    4300072: Rectangle024
+    4300074: Rectangle025
+    4300076: large roof lath090
+    4300078: small roof lath090
+    4300080: small roof lath091
+    4300082: large roof lath091
+    4300084: large roof lath092
+    4300086: large roof lath093
+    4300088: large roof lath094
+    4300090: large roof lath095
+    4300092: large roof lath096
+    4300094: large roof lath097
+    4300096: large roof lath098
+    4300098: large roof lath099
+    4300100: large roof lath100
+    4300102: large roof lath101
+    4300104: large roof lath102
+    4300106: large roof lath103
+    4300108: large roof lath104
+    4300110: large roof lath105
+    4300112: large roof lath106
+    4300114: large roof lath107
+    4300116: small roof lath092
+    4300118: small roof lath093
+    4300120: small roof lath094
+    4300122: small roof lath095
+    4300124: small roof lath096
+    4300126: small roof lath097
+    4300128: small roof lath098
+    4300130: small roof lath099
+    4300132: small roof lath100
+    4300134: small roof lath101
+    4300136: small roof lath102
+    4300138: small roof lath103
+    4300140: small roof lath104
+    4300142: small roof lath105
+    4300144: small roof lath106
+    4300146: small roof lath107
+    4300148: column020
+    4300150: column021
+    4300152: column023
+    4300154: column024
+    4300156: column026
+    4300158: column027
+    4300160: Rectangle026
+    4300162: Rectangle027
+    4300164: Rectangle028
+    4300166: Rectangle029
+    4300168: Line005
+    4300170: Rectangle030
+    4300172: Rectangle031
+    4300174: Rectangle032
+    4300176: Rectangle033
+    4300178: Line006
+    4300180: Rectangle014
+    4300182: Rectangle015
+    4300184: Rectangle016
+    4300186: Rectangle017
+    4300188: large roof lath054
+    4300190: small roof lath054
+    4300192: small roof lath055
+    4300194: large roof lath055
+    4300196: large roof lath056
+    4300198: large roof lath057
+    4300200: large roof lath058
+    4300202: large roof lath059
+    4300204: large roof lath060
+    4300206: large roof lath061
+    4300208: large roof lath062
+    4300210: large roof lath063
+    4300212: large roof lath064
+    4300214: large roof lath065
+    4300216: large roof lath066
+    4300218: large roof lath067
+    4300220: large roof lath068
+    4300222: large roof lath069
+    4300224: large roof lath070
+    4300226: large roof lath071
+    4300228: small roof lath056
+    4300230: small roof lath057
+    4300232: small roof lath058
+    4300234: small roof lath059
+    4300236: small roof lath060
+    4300238: small roof lath061
+    4300240: small roof lath062
+    4300242: small roof lath063
+    4300244: small roof lath064
+    4300246: small roof lath065
+    4300248: small roof lath066
+    4300250: small roof lath067
+    4300252: small roof lath068
+    4300254: small roof lath069
+    4300256: small roof lath070
+    4300258: small roof lath071
+    4300260: large roof lath036
+    4300262: large roof lath037
+    4300264: small roof lath036
+    4300266: small roof lath037
+    4300268: large roof lath038
+    4300270: large roof lath039
+    4300272: large roof lath040
+    4300274: large roof lath041
+    4300276: large roof lath042
+    4300278: large roof lath043
+    4300280: large roof lath044
+    4300282: large roof lath045
+    4300284: large roof lath046
+    4300286: large roof lath047
+    4300288: large roof lath048
+    4300290: large roof lath049
+    4300292: large roof lath050
+    4300294: large roof lath051
+    4300296: large roof lath052
+    4300298: large roof lath053
+    4300300: small roof lath038
+    4300302: small roof lath039
+    4300304: small roof lath040
+    4300306: small roof lath041
+    4300308: small roof lath042
+    4300310: small roof lath043
+    4300312: small roof lath044
+    4300314: small roof lath045
+    4300316: small roof lath046
+    4300318: small roof lath047
+    4300320: small roof lath048
+    4300322: small roof lath049
+    4300324: small roof lath050
+    4300326: small roof lath051
+    4300328: small roof lath052
+    4300330: small roof lath053
+    4300332: Rectangle018
+    4300334: Rectangle019
+    4300336: Line003
+    4300338: Rectangle020
+    4300340: Rectangle021
+    4300342: Rectangle022
+    4300344: Rectangle023
+    4300346: Line004
+    4300348: column010
+    4300350: column011
+    4300352: column013
+    4300354: column014
+    4300356: column016
+    4300358: column017
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

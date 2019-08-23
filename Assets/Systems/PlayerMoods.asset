@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3af5d4cd4c5ba4b8b9dc9055d7f590aa, type: 3}
+  m_Name: PlayerMoods
+  m_EditorClassIdentifier: 
+  Moods:
+  - Name: Hunger
+    CurrentMoodLevel: 41.599766
+    MaxMoodLevel: 100
+    MoodDecayFactor: 0.01
+    Description: 
+  - Name: Sleep
+    CurrentMoodLevel: 99.56495
+    MaxMoodLevel: 100
+    MoodDecayFactor: 0.01
+    Description: 
+  - Name: Restroom
+    CurrentMoodLevel: 99.56495
+    MaxMoodLevel: 100
+    MoodDecayFactor: 0.01
+    Description: 
+  - Name: Shower
+    CurrentMoodLevel: 99.56495
+    MaxMoodLevel: 100
+    MoodDecayFactor: 0.01
+    Description: 
+  - Name: Entertainment
+    CurrentMoodLevel: 99.56495
+    MaxMoodLevel: 100
+    MoodDecayFactor: 0.01
+    Description: 
+  - Name: 
+    CurrentMoodLevel: 100
+    MaxMoodLevel: 100
+    MoodDecayFactor: 0.01
+    Description: 
+  MoodAverage: 89.97659
+  Console: {fileID: 11400000, guid: d9954a9f039a44ba6a9fb7e073eb697e, type: 2}

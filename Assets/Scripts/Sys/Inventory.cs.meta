@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: eb280b3a3319e4a28b02e02cac4fbb66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MasterDatabase: {fileID: 11400000, guid: 608b2ebb47e734d399411c0f0208528b, type: 2}
+  - ItemToMouseEvent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

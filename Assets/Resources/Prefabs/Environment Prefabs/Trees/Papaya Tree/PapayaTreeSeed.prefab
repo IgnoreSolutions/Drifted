@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6235426284861247301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2557459822445431691}
+  - component: {fileID: 527941301689273241}
+  - component: {fileID: 6422970566874451151}
+  m_Layer: 0
+  m_Name: PapayaTreeSeed
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2557459822445431691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6235426284861247301}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -14.853835, y: 22.434, z: -19.38349}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!136 &527941301689273241
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6235426284861247301}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.5
+  m_Height: 3
+  m_Direction: 2
+  m_Center: {x: 0, y: 0, z: 1}
+--- !u!114 &6422970566874451151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6235426284861247301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f7ed87a07f70594381ce4d16f4e9aa3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PapayaTreeSeed: {fileID: 2557459822445431691}
+  Empty: {fileID: 6235426284861247301}
+  PapayaTreeStage1Prefab: {fileID: 3529246401806603322, guid: 44927d9bd1e7943bfb14b5dc511403e2,
+    type: 3}
+  PapayaTreeStage2Prefab: {fileID: 4003381102245857054, guid: cd52e5f721261224ea33af1006e1fcb1,
+    type: 3}
+  PapayaTreeStage3Prefab: {fileID: 5174215983705626683, guid: c73cf1080b8637a4e814379b168d53c0,
+    type: 3}
+  PapayaTreeStage4Prefab: {fileID: 341800505964828560, guid: fd551e6da3453f5479a263a514c41266,
+    type: 3}
+  PapayaTreeStage5Prefab: {fileID: 8270162317576148730, guid: d8eb1df567fd583419f20233df273af8,
+    type: 3}
+  PapayaTreeStage6Prefab: {fileID: 257641893889113170, guid: 250a5154ed09f664385da6a562374d0d,
+    type: 3}
+  growthTime: 60
+  harvestTime: 0
+  decayTime: 120
+  fruitTime: 120
+  harvest: 0
+  cut: 0
+  WindowManager: {fileID: 6053643795609491651, guid: 42970247d94a3481494b3c94ac27fcaa,
+    type: 3}
+  InventoryController: {fileID: 6053643795609491710, guid: 42970247d94a3481494b3c94ac27fcaa,
+    type: 3}
+  Skills: {fileID: 4761861776522955605, guid: 42970247d94a3481494b3c94ac27fcaa, type: 3}

@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5612124636107846204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9205268500305016640}
+  - component: {fileID: 5612124636107846205}
+  - component: {fileID: 5612124636107846207}
+  - component: {fileID: 5612124636107846206}
+  m_Layer: 0
+  m_Name: BananaTreeSeed
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9205268500305016640
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5612124636107846204}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 26.56529, y: 15.252527, z: -32.56085}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5612124636107846205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5612124636107846204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b8415c8baada1248ba9391af79bd4cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FriendlyName: Banana Tree
+  Console: {fileID: 0}
+  playerInventory: {fileID: 0}
+  Skills: {fileID: 0}
+  menuManager: {fileID: 0}
+  notificationManager: {fileID: 0}
+  CullingBoundRadius: 3
+  HasBecomeVisible:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  HasBecomeInvisible:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  DisappearDelayTime: 1
+  emptyG: {fileID: 5612124636107846204}
+  banana1: {fileID: 5287651618987291910, guid: cb45a5c1925d3a940b8b21b5a6f2cc63, type: 3}
+  banana2: {fileID: 2462653335211157809, guid: d4e1d7f46cc4de14eb540c69159b565e, type: 3}
+  banana3: {fileID: 4697827975214008715, guid: 5e86576830b05f54cad72253591b403f, type: 3}
+  bananaStartFruit: {fileID: 7104995756251263011, guid: 2f81a9feaf01e3643a77e09a0f817309,
+    type: 3}
+  bananaFruit: {fileID: 4382726718417373992, guid: af439f593bf418b4db9ba0e7944dbc1b,
+    type: 3}
+  bananaNoFruit: {fileID: 2377412153234567829, guid: 8330fec61dd92444a8830d501aab1b27,
+    type: 3}
+  bananaCut: {fileID: 7380855512272925572, guid: 9514f33f84f0755449b00ef312186c4f,
+    type: 3}
+  bananaLeaves: {fileID: 847064270029819642, guid: 50795bbaf18aecc46a8a055e835dc92e,
+    type: 3}
+  ableToHarvestLeaves: 0
+  ableToHarvestFruit: 0
+  ableToCut: 0
+--- !u!114 &5612124636107846207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5612124636107846204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8d593d39d3e04b2a897f688679ffd91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!136 &5612124636107846206
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5612124636107846204}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.2
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.3, z: 0}

@@ -1,0 +1,17 @@
+drifted_input
+macOS
+True
+13
+OK:Button:JoystickButton16
+Cancel:Button:JoystickButton17
+CameraPanX:Axis:RightStickX_Mac
+CameraPanY:Axis:RightStickY_Mac
+ResetCamera:Button:JoystickButton10
+Jump:Button:JoystickButton16
+MovementX:Axis:Horizontal
+MovementY:Axis:Vertical
+ToggleMoods:Button:JoystickButton17
+ToggleSkills:Button:JoystickButton18
+ToggleInventory:Button:JoystickButton19
+PanCameraLeft:Button:JoystickButton13
+PanCameraRight:Button:JoystickButton14

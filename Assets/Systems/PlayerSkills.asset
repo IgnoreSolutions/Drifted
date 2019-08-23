@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94fed5509c1d2421daf90ec0c07bfa85, type: 3}
+  m_Name: PlayerSkills
+  m_EditorClassIdentifier: 
+  ShouldResetOnEnable: 1
+  WoodCutting:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.2
+    Name: Wood Cutting
+    Description: Chop Chop Chop Chop Chop Chop Chop Chop
+  Harvesting:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.2
+    Name: 
+    Description: 
+  Fishing:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.8
+    Name: Fishing
+    Description: How good are you with poles?
+  Hunting:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.2
+    Name: 
+    Description: 
+  Building:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.2
+    Name: 
+    Description: 
+  Blacksmithing:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.2
+    Name: 
+    Description: 
+  Crafting:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.2
+    Name: 
+    Description: 
+  Farming:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.2
+    Name: 
+    Description: 
+  Firemaking:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.2
+    Name: 
+    Description: 
+  Ranching:
+    Level: 1
+    CurrentXP: 0
+    ExperienceBase: 100
+    ExperienceLeft: 100
+    ExperienceModifier: 1.2
+    Name: 
+    Description: 

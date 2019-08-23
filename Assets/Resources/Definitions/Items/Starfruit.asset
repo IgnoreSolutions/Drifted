@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 678583d66ab13421d98b440f41f5b20a, type: 3}
+  m_Name: Starfruit
+  m_EditorClassIdentifier: 
+  ItemName: Starfruit
+  Stackable: 1
+  Icon: {fileID: 21300074, guid: 2c513062bec0a49fc9d85a38e73764ee, type: 3}
+  Description: Wish upon a shooting starfruit.
+  UseCustomMenu: 0
+  BuildCustomMenuAction: {fileID: 0}
+  GoodnessFactor: 2.1
+  ImmediateHealthGain: 0

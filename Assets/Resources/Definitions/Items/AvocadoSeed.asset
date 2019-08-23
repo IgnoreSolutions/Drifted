@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97390bdac6b1143a58978fc3de1201c5, type: 3}
+  m_Name: AvocadoSeed
+  m_EditorClassIdentifier: 
+  ItemName: Avocado Seed
+  Stackable: 1
+  Icon: {fileID: 21300004, guid: 2c513062bec0a49fc9d85a38e73764ee, type: 3}
+  Description: It's so new I don't even know what to say about it yet.
+  UseCustomMenu: 0
+  BuildCustomMenuAction: {fileID: 0}
+  SeedlingPrefab: {fileID: 1733135070163024905, guid: 526e946030623e24eb155c886ce0b5f6,
+    type: 3}
+  PlantingExperienceGain: 0
+  IsFood: 0
+  GoodnessFactor: 0
+  ImmediateHealthRestoration: 0
