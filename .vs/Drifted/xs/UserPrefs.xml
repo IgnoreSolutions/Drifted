@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A700718F-4242-E3FC-FD70-16DDC534B171}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Extras/WMTooltip.cs">
+    <Files>
+      <File FileName="Assets/Standard Assets/Utility/ForcedReset.cs" Line="12" Column="30" />
+      <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="21" Column="74" />
+      <File FileName="Assets/Scripts/Extras/WMTooltip.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f5d8c201-75a5-4e47-bd09-2c8004ab0107" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
